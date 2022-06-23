@@ -79,3 +79,6 @@ p{
       width: 100%;
     }
 }
+canvas {
+  border:7px dashed #4A4747
+}
